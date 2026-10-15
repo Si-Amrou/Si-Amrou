@@ -37,10 +37,10 @@
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { "HTML", "CSS", "Javascript", }
-    "OtherLanguages" : { "Vue.js", "PHP", "" },
-    "Database" : { "Supabase", "My SQL", "PostgreSql" },
+    "OtherLanguages" : { "Vue.js", "PHP" },
+    "Database" : { "My sql", "PostgreSql" },
     "Editors" : { "Vscode", "Antigravity" },
-    "OtherTools" : { "Wordpress", "FileZilla", "Git", "Figma", "Affinity"}
+    "OtherTools" : { "Wordpress", "FileZilla", "Git", "Figma", "Affinity" , "vectorcraft" }
   };
 }
 ```
